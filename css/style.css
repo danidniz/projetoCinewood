@@ -1,0 +1,232 @@
+@charset "UTF-8";
+
+
+
+/* 
+	Nome: STYLE CSS | Cinewood VERSÃO 0.3.
+	Data: 10/Jun/2020.
+*/
+
+
+
+
+/* O CSS ESPECÍFICO DA SUA PÁGINA VOCÊ COLOCA AQUI EM BAIXO! */
+
+
+
+/* DANIELE DINIZ */
+
+/*------ QUEM SOMOS -------*/
+
+.quemsomos {
+    font-family: 'Anton', sans-serif;
+    color: #292929;
+}
+
+/*------- FIM DO QUEM SOMOS ------*/
+
+
+/*--------------DRAMA/SUSPENSE----------------*/
+
+.table-dani {
+    font-family: 'Arvo', serif;
+    color: #484848;
+}
+
+.table-dani.active {
+    background-color: #5f2c2c !important;
+    color: #fff;
+
+}
+
+.table-dani:focus,
+.table-dani:hover {
+    text-decoration: none;
+    color: black;
+}
+
+
+/*H1, H2, H3...*/
+.h2-dani {
+    font-family: 'Anton', sans-serif;
+    color: #383737;
+}
+
+.titulo-link {
+    font-family: 'Reem Kufi', sans-serif;
+
+}
+
+.destaque-dani {
+    font-family: 'Fjalla One', sans-serif;
+    color: #696666;
+}
+
+
+.section-dani {
+    font-family: 'Anton', sans-serif;
+    color: #ffffff !important;
+}
+
+.aviso-dani {
+    font-family: 'Arvo', serif;
+    color: #7e0909;
+}
+
+
+
+/* Thiago Fonseca */
+
+/* ---------------------------Romance/Nacionais--------------------------------- */
+
+.h2-thiago {
+    font-family: 'Anton', sans-serif;
+    color: #383737;
+}
+
+.confira-guinho {
+    font-family: 'Volkhov', serif;
+
+}
+
+.titulo-guinho {
+    color: black !important;
+    font-family: 'Reem Kufi', sans-serif;
+}
+
+.aside-guinho {
+    font-family: 'Anton', sans-serif;
+}
+
+
+
+/* Artur Augusto */
+
+/*------------AÇÃO/AVENTURA----------------------*/
+
+.pA-banco {
+    font-size: 0.75rem;
+}
+
+.h2-Artur {
+    font-family: 'Anton', sans-serif;
+    color: #383737;
+}
+
+.acaoM1 {
+    clear: both;
+}
+
+.i_acao1 {
+    margin-top: 20px;
+}
+
+.acaoA1 {
+    float: left;
+    position: relative;
+    margin-top: -600px;
+    margin-left: 850px;
+
+}
+
+.acaoS1 {
+    float: left;
+    position: relative;
+    margin-top: -400px;
+    margin-bottom: 100px;
+}
+
+.saibaArt {
+    font-family: 'Volkhov', serif;
+}
+
+
+
+/* Gianluca Santos */
+
+/*-------TERROR/DOCS---------*/
+.link-gian {
+    font-family: 'Volkhov', serif;
+}
+
+.h2-gian {
+    font-family: 'Anton', sans-serif;
+    color: #383737;
+}
+
+.h4-gian {
+    font-family: 'Anton', sans-serif;
+    color: #383737;
+}
+
+
+
+/* --------------------------------------------------------------------------
+
+A PARTIR DAQUI, SÓ EU POSSO ALTERAR
+
+----------------------------------------------------------------------------*/
+
+
+/*--------------HEADER-------------------*/
+
+.principal {
+    font-family: 'Arvo', serif;
+    color: whitesmoke !important;
+}
+
+.principal:hover {
+    text-decoration: underline !important;
+}
+
+.dropdown-principal {
+    color: rgb(46, 46, 46) !important;
+    font-family: 'Arvo', serif;
+
+}
+
+
+/*--------------FIM HEADER---------------------*/
+
+
+
+/*--------------FOOTER-------------------*/
+
+footer {
+    font-family: 'Arvo', serif;
+
+}
+
+/*--------------FIM FOOTER---------------------*/
+
+
+
+
+/*--------------GERAL-------------------*/
+
+.titulo {
+    font-family: 'Reem Kufi', sans-serif;
+}
+
+.sub {
+    font-family: 'Yrsa', serif;
+
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    color: #292929;
+}
+
+
+.h2-banco {
+    font-family: 'Volkhov', serif;
+    color: rgba(13, 13, 13, 0.88);
+}
+
+.h3-banco {
+    font-family: 'Volkhov', serif;
+
+}
+
+/*--------------FIM GERAL---------------------*/
